@@ -1,0 +1,21 @@
+From 21e07601732894db3015ac07cda2cbe16cab6093 Mon Sep 17 00:00:00 2001
+From: Haseena <skaishu07@gmail.com>
+Date: Mon, 3 Aug 2026 10:04:18 +0530
+Subject: [PATCH 2/2] 2nd time update
+
+---
+ a.txt | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+diff --git a/a.txt b/a.txt
+index d620c9b..a20b652 100644
+--- a/a.txt
++++ b/a.txt
+@@ -1,2 +1,3 @@
+ demo on collabration
+-demo on 
++demo on
++creating patch file  
+-- 
+2.53.0.windows.1
+
